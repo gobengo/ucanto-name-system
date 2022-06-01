@@ -33,14 +33,14 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@gobengo/ucanto-core": "^0.0.1",
+    "@gobengo/ucanto-interface": "^0.0.1",
     "@ipld/dag-ucan": "^1.2.4-beta",
     "@noble/ed25519": "^1.6.0",
-    "@ucanto/interface": "gobengo/ucanto.git#workspace=@ucanto/interface",
     "express": "^4.18.1",
     "http-proxy-middleware": "^2.0.6",
     "it-all": "^1.0.6",
     "multiformats": "^9.6.4",
-    "ucanto": "^0.1.0-beta",
     "uint8arrays": "^3.0.0",
     "yargs": "^17.4.1"
   },
